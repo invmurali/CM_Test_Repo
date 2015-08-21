@@ -1,3 +1,7 @@
+2015-08-22 28b985a
+A	Hello.txt
+M	newtest/sdfg.txt
+
 2015-08-22 2ed4559
 A	123.txt
 D	Sample
