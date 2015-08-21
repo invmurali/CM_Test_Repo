@@ -1,0 +1,35 @@
+2015-08-22 2ed4559
+A	123.txt
+D	Sample
+A	newtest/sdfg.txt
+
+2015-08-20 a0814df
+M	file1.txt
+A	testing with excel.xlsx
+
+2015-08-20 282aad1
+M	file1.txt
+
+2015-08-20 4e1a71c
+M	Readme.txt
+
+2015-08-20 0dc5834
+A	file1.txt
+
+2015-08-18 5c1a3a7
+2015-08-18 79213ae
+M	Readme.txt
+
+2015-08-18 b030f57
+2015-08-18 54abf28
+M	Readme.txt
+
+2015-08-18 6c986ac
+M	Readme.txt
+A	Sample
+
+2015-08-18 2734672
+M	Readme.txt
+
+2015-08-18 2b09a04
+A	Readme.txt
